@@ -1,0 +1,4 @@
+# CodeAlpha_BasicChatbot
+# This project uses only the Python standard library.
+# No external dependencies or packages are required.
+# Compatible with Python 3.8+

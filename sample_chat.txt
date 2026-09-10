@@ -1,0 +1,53 @@
+============================================================
+       🤖 WELCOME TO CODEALPHA RULE-BASED CHATBOT 🤖        
+============================================================
+Hello! I am AlphaBot, your friendly virtual assistant.
+I can chat with you, answer basic questions, and tell jokes!
+Type 'help' to see what I can do, or type 'bye' / 'exit' to quit.
+------------------------------------------------------------
+
+You: Hello
+AlphaBot: Hello there! How can I help you today? 😊
+
+You: What is your name?
+AlphaBot: My name is AlphaBot! 🤖 I am a rule-based Python chatbot created for the CodeAlpha internship.
+
+You: Who created you?
+AlphaBot: I was developed in Python as part of the CodeAlpha Python Programming Internship task!
+
+You: How are you doing?
+AlphaBot: All systems running at 100%! Ready to assist you. How about yourself?
+
+You: What time is it?
+AlphaBot: The current time is ⏰ 12:35:58 PM.
+
+You: What date is today?
+AlphaBot: Today's date is 📅 Wednesday, September 09, 2026.
+
+You: Tell me a joke
+AlphaBot: Here is one for you:
+Why do programmers prefer dark mode? Because light attracts bugs! 🐛
+
+You: what can you do
+AlphaBot:
+AlphaBot - Supported Topics & Commands:
+ -------------------------------------------------------------
+ • Greetings      : hello, hi, hey, good morning, good evening
+ • Identity       : what is your name, who are you
+ • Status         : how are you, how are you doing
+ • Creator        : who created you, who made you
+ • Capabilities   : what can you do, help, commands
+ • Real-time Info : what time is it, what is today's date
+ • Fun / Humor    : tell me a joke, joke
+ • Gratitude      : thank you, thanks, appreciate it
+ • Exit           : bye, goodbye, exit, quit
+ -------------------------------------------------------------
+ Tip: Just type naturally! I am not case-sensitive.
+
+You: Thank you so much!
+AlphaBot: You're very welcome! Happy to help! 😊
+
+You: bye
+------------------------------------------------------------
+AlphaBot: It was wonderful chatting with you! Have a great day! 👋
+============================================================
